@@ -1,2 +1,2 @@
 # Neko-Speaker
-idf project for neko speaker (esp32s2)
+esp-idf project for neko speaker (esp32s2)
